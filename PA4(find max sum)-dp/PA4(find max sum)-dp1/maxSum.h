@@ -12,7 +12,7 @@ public:
 	maxSum(int n, int *m);
 	~maxSum();
 	int max(void);
-	int findMax(int i,int* m);
+	int findMax(int l,int r,int** m);
 };
 
 #endif

@@ -32,17 +32,27 @@ int maxSum::max(void){
 }
 
 int maxSum::findMax(register int i,register int* m){
-	if(i>num-1){return 0;}
-	int& val = m[i];
-	if(val != -1){return val;}
-	int a= findMax(i+1,m);
-	int b=0;
-	int c=0;
-	if(i<num){b = money[i]+findMax(i+2,m);}
-	if(i<num-1){c = money[i]+money[i+1]+findMax(i+3,m);}
-	if((a>=b)&&(a>=c)){val = a;}
-	if((b>=a)&&(b>=c)){val = b;}
-	if((c>=a)&&(c>=b)){val = c;}
-	return val;
+	if(!(i>num-1)){
+		int& val = m[i];
+		if(val != -1){return val;}
+		else{
+			register int a= findMax(i+1,m);
+			if(i<num-1){
+				register int b = money[i]+findMax(i+2,m);
+				register int c = money[i]+money[i+1]+findMax(i+3,m);
+				if((a>b-1)&&(a>c-1)){return val = a;}
+				else if((b>c-1)&&(b>a-1)){return val = b;}
+				else{return val = c;}
+			}
+			else if(i<num){
+				register int b = money[i]+findMax(i+2,m);
+				if(a>b){return val = a;}
+				else{return val =b;}
+			}
+			else{return val = a;}
+		}
+	}
+	else{return 0;}
 }
+
 // Define additional functions here if you declared in maxSum.h....
