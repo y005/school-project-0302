@@ -27,13 +27,11 @@
   Game Project
   
   : 유니티를 활용한 3D액션게임 제작
+  
+  (실행영상: https://drive.google.com/file/d/1tj7ZHnDXRmESDEe54FW0A1nUR0ATj7U5/view?usp=sharing)
 
 
 -소프트웨어공학
 
   필기노트
 
- 
--데이터베이스 설계와 질의 
-
-  필기노트 
