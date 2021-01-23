@@ -9,9 +9,9 @@
   
   Project Assignment(C++)
   
-  1. PA1: Merge count를 이용한 inversion count를 구하는 문제(+Line Sweeping Ver)
+  1. PA1: Merge count를 이용한 inversion count를 구하는 문제
   
-  2. PA2: Divide & Conquer를 이용한 점들 사이의 최단 거리 구하는 문제 
+  2. PA2: Divide & Conquer를 이용한 점들 사이의 최단 거리 구하는 문제(+Line Sweeping Ver)
   
   3. PA3: Count sort를 이용한 문자열 변환 문제(+Radix Sort Ver)
   
