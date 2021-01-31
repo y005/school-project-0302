@@ -34,7 +34,9 @@
     3. 2스테이지는 랜덤하게 생성된 미로를 플레이어는 움직이는 발판을 타고 적들의 공격을 피해 추락하지 않고 통과해야 하는 스테이지입니다.
     4. 마지막 3스테이지는 떨어지는 돌들과 추락하는 발판을 피해 보스몬스터를 총으로 물리치면 게임에서 승리할 수 있는 스테이지입니다.
   
-  관련 상세 문서: https://github.com/y005/school-project-0302/blob/master/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C%20%EB%AF%B8%EB%94%94%EC%96%B4/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+  관련 상세 문서: 
+  https://github.com/y005/school-project-0302/blob/master/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C%20%EB%AF%B8%EB%94%94%EC%96%B4/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+  
   실행영상: https://drive.google.com/file/d/1tj7ZHnDXRmESDEe54FW0A1nUR0ATj7U5/view?usp=sharing
 
 
