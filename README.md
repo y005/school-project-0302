@@ -37,7 +37,7 @@
   관련 상세 문서: 
   https://github.com/y005/school-project-0302/blob/master/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C%20%EB%AF%B8%EB%94%94%EC%96%B4/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
   
-  실행영상: https://drive.google.com/file/d/1tj7ZHnDXRmESDEe54FW0A1nUR0ATj7U5/view?usp=sharing
+  실행영상: https://youtu.be/gX_pAlZ9e34
 
 
 -소프트웨어공학
